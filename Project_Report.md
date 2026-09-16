@@ -1,9 +1,8 @@
 # VisionGuard: AI-Powered Driver Monitoring System
-### BYOP Capstone Project Report
 
-**Date**: March 29, 2026  
-**Author**: Hardik  
-**Repo**: [https://github.com/hardik0903/CV_proj.git](https://github.com/hardik0903/CV_proj.git)
+**Date**: September 17, 2026 
+**Author**: Naman Sharma 
+**ID**: 24BAC10001
 
 ---
 
