@@ -21,7 +21,7 @@
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/arpitbaranwal/CV_projComputer_Vision_VITYARTHI_Project.git
+   git clone https://github.com/namansharma927/CV_projComputer_Vision_VITYARTHI_Project.git
    cd CV_proj
    ```
 
