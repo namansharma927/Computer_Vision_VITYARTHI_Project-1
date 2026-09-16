@@ -128,3 +128,5 @@ def _alert_banner(frame, text, color, frame_w):
     cv2.putText(frame, text, (x, h_f - 9),
                 cv2.FONT_HERSHEY_SIMPLEX, 0.85, color, 2, cv2.LINE_AA)
 
+Submitted by: Naman Sharma
+ID : 24BAC10001
