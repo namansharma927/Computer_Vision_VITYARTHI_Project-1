@@ -144,3 +144,6 @@ if st.session_state.run_camera:
     cap.release()
 else:
     st.info("Click 'Start System' in the sidebar to begin monitoring.")
+
+Submitted by: Naman Sharma
+ID : 24BAC10001
